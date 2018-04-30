@@ -1,0 +1,40 @@
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+  }
+
+.titulo{
+  font-weight: bold;
+}
+
+.ban {
+  height: 400px;
+}
+
+.caru {
+  height: 400px;
+}
+
+.footer {
+  background-color: black;
+  height: 100px;
+  width: 100%;
+}
+.letras {
+  display: flex;
+  color: white;
+  justify-content: center;
+}
+.texto{
+  justify-content: center;
+}
+
+.titul,p {
+  color: gray;
+}
